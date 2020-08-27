@@ -1,4 +1,4 @@
-const total_images = 9;
+const total_images = 8;
 
 (function () {
   let html, newHtml;
